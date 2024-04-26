@@ -1,0 +1,26 @@
+{
+	"name": "Vue3 Docker Practice",
+	"dockerComposeFile": "../compose.yaml",
+	"service": "frontend",
+	"workspaceFolder": "/app",
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"wmaurer.change-case",
+				"ms-azuretools.vscode-docker",
+				"dbaeumer.vscode-eslint",
+				"mhutchie.git-graph",
+				"donjayamanne.githistory",
+				"eamodio.gitlens",
+				"oderwat.indent-rainbow",
+				"VisualStudioExptTeam.vscodeintellicode",
+				"VisualStudioExptTeam.intellicode-api-usage-examples",
+				"wmaurer.vscode-jumpy",
+				"yzhang.markdown-all-in-one",
+				"ryu1kn.partial-diff",
+				"esbenp.prettier-vscode",
+				"Vue.volar"
+			]
+		}
+	}
+}
